@@ -18,6 +18,7 @@
 ![HTML](https://img.shields.io/badge/HTML-%230175C2.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%230175C2.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%230175C2.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-%230175C2.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=o-Erebus&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=o-Erebus&theme=react&hide_border=false)<br/>
