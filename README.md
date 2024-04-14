@@ -17,18 +17,21 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-%230175C2.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%230175C2.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%230175C2.svg?&style=for-the-badge&logo=Python&logoColor=white) 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-%230175C2.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%230175C2.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%230175C2.svg?style=for-the-badge&logo=Node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%230175C2.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![React](https://img.shields.io/badge/React-%230175C2.svg?style=for-the-badge&logo=React&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-%230175C2.svg?style=for-the-badge&logo=Vite&logoColor=white) 
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230175C2.svg?style=for-the-badge&logo=Material-UI&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-%230175C2.svg?style=for-the-badge&logo=Angular&logoColor=white) 
 ![AngularJS](https://img.shields.io/badge/AngularJS-%230175C2.svg?style=for-the-badge&logo=AngularJS&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-%230175C2.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%230175C2.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=o-Erebus&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
