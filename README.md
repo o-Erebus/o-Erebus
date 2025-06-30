@@ -4,10 +4,9 @@
 
 ---
 <p align="center">
-  ```markdown
-  ![](https://komarev.com/ghpvc/?o-Erebus&abbreviated=true&base=1249&color=00ffff)
-  ```
+  <img src="https://komarev.com/ghpvc/?username=o-Erebus&abbreviated=true&base=1249&color=00ffff" alt="Profile Views"/>
 </p>
+
 
 
 # 💫 About Me:
