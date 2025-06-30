@@ -3,8 +3,11 @@
 <img src="https://github.com/o-Erebus/o-Erebus/blob/main/Images/banner.png?raw=true" alt="Hello world">
 
 ---
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?o-Erebus&abbreviated=true&base=1249&color=00ffff)
+<p align="center">
+  ```markdown
+  ![](https://komarev.com/ghpvc/?o-Erebus&abbreviated=true&base=1249&color=00ffff)
+  ```
+</p>
 
 
 # 💫 About Me:
