@@ -3,9 +3,9 @@
 <img src="https://github.com/o-Erebus/o-Erebus/blob/main/Images/banner.png?raw=true" alt="Hello world">
 
 ---
-<p align="center">
-  ![](https://komarev.com/ghpvc/?o-Erebus&abbreviated=true&base=1249&color=00ffff)
-</p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?o-Erebus&abbreviated=true&base=1249&color=00ffff)
+
 
 # 💫 About Me:
 👋 Hello there! I'm Neel, a passionate coder and design enthusiast! 💻🎨<br><br>📚 Currently pursuing B.Tech in Computer Science Engineering from Vishwakarma University, I'm on an exciting journey of learning and exploring the world of coding. 🌍🔍<br><br>✨ Combining my love for design and coding, I create captivating software solutions that seamlessly blend aesthetics with functionality. 💡🚀<br><br>🌟 Join me as I embark on this incredible adventure, honing my skills and bringing innovative ideas to life through my coding projects. Let's push the boundaries of technology together! 🌟🚀<br><br>Connect with me and discover the magic of my coding and design endeavors! 🔗✨
