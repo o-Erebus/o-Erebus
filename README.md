@@ -4,9 +4,7 @@
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=o-Erebus&icon=2&color=1&width=100" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=o-Erebus&icon=2&color=1&width=100" alt="Profile Visitors Count" />
-  </a>
+  ![](https://komarev.com/ghpvc/?o-Erebus&abbreviated=true&base=1249&color=00ffff)
 </p>
 
 # 💫 About Me:
